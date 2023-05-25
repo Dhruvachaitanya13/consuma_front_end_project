@@ -1,1 +1,3 @@
-# consuma_front_end_project
+
+Setup:
+- run ```npm i && npm start```
